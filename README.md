@@ -34,12 +34,12 @@ I'm a passionate Full-Stack Developer and 2024 B.Tech graduate in Information Te
 - 🔢 **Handwritten Digit Classifier**  
   `Python • Keras • MNIST`  
   Deep learning model with 98%+ accuracy in digit recognition.  
-  🔗 [View Code](https://github.com/your-username/handwritten-digit-classifier)
+  🔗 [View Code](https://github.com/ssravan18/Machine-Learning-project)
 
 - 🐧 **Penguin Species Predictor**  
   `Python • Scikit-learn • KNN`  
   ML project predicting penguin species using feature-based classification.  
-  🔗 [View Code](https://github.com/your-username/penguin-classification)
+  🔗 [View Code](https://github.com/ssravan18/Penguin-Species-Prediction)
 
 ---
 
