@@ -13,7 +13,7 @@ I'm a passionate Full-Stack Developer and 2024 B.Tech graduate in Information Te
   
 | Languages | Frontend | Backend | Databases | Tools | Cloud |
 |----------|----------|---------|-----------|-------|-------|
-| Java, Python, C, JavaScript | HTML, CSS, Angular, React | Spring Boot, Node.js, ASP.NET Core, Express.js | MySQL, MongoDB | Git, Postman, VS Code, IntelliJ | Azure (AZ-900, AI-900) |
+| Java, Python, C, JavaScript | HTML, CSS, Angular, React | Spring Boot, Node.js, ASP.NET Core, Express.js | MySQL, MongoDB | Git, Postman, VS Code | Azure (AZ-900, AI-900) |
 
 </div>
 
