@@ -24,12 +24,12 @@ I'm a passionate Full-Stack Developer and 2024 B.Tech graduate in Information Te
 - 🚚 **Delivery Management System**  
   `Angular • Spring Boot • MySQL • JWT`  
   A full-stack app to manage orders, deliveries, and drivers with role-based authentication.  
-  🔗 [View Code](https://github.com/your-username/delivery-management-system)
+  🔗 [View Code](https://github.com/ssravan18/delivery-system)
 
 - 🎓 **Digital Certificate System**  
   `React • Node.js • MongoDB • Solidity • IPFS`  
   Blockchain-based platform for secure digital certificates using NFTs.  
-  🔗 [View Code](https://github.com/your-username/digital-certificate-system)
+  🔗 [View Code](https://github.com/ssravan18/DigitalCertificateSystemBackend)
 
 - 🔢 **Handwritten Digit Classifier**  
   `Python • Keras • MNIST`  
