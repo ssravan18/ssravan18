@@ -16,7 +16,8 @@ I'm a passionate Full-Stack Developer and 2024 B.Tech graduate in Information Te
 | Java, Python, C, JavaScript | HTML, CSS, Angular, React | Spring Boot, Node.js, ASP.NET Core, Express.js | MySQL, MongoDB | Git, Postman, VS Code | Azure (AZ-900, AI-900) |
 
 </div>
-
+---
+[![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-AZ--900-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
 ---
 
 ### 📌 Featured Projects
